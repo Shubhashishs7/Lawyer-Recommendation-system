@@ -1,8 +1,9 @@
-#Introduction
-#Finding the Right Lawyer: A Technological Solution
-#Problem: The abundance of legal information and specialized lawyers makes it challenging for individuals to find
-the most suitable lawyer for their specific legal needs. Often, navigating the complex legal landscape feels
-overwhelming.
+#Introduction  
+
+#Finding the Right Lawyer: A Technological Solution  
+
+#Problem: The abundance of legal information and specialized lawyers makes it challenging for individuals to find the most suitable lawyer for their specific legal needs. Often, navigating the complex legal landscape feels overwhelming.  
+
 #Solution: This project proposes a Lawyer Recommendation System, a sophisticated recommendation engine that
 leverages technology to streamline the lawyer selection process.
 #•Data Acquisition: Scrape lawyer data from pathlegal.in using Selenium and BeautifulSoup.
